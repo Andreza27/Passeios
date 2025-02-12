@@ -32,6 +32,8 @@ header {
  .logo-image {
    margin: 1px 0 0 123px ;
    display: inline-block;
+   width:100%;
+   max-width:300px;
     }
 
  div { 
