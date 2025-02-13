@@ -31,8 +31,10 @@ header {
 }  
  .logo-image { 
    display: inline-block;
-   width:100%;
-   max-width:300px;
+   width:381px;
+   max-width:381px;
+   margin-left: 192px;
+   margin-top: 65px;
     }
 
  div { 
@@ -43,18 +45,18 @@ header {
 
 h1 { 
     font-weight:700 ;
-    font-size:50px ;
-    line-height:62px ;
+    font-size:44px ;
+    line-height:45px ;
     color:rgba(22, 26, 73, 1);
     }
 
 p {
     font-weight:400 ;
-    font-size:24px ;
-    line-height:29px ;
+    font-size:18px ;
+    line-height:23px ;
     color: #3e4140;
-    margin-top: 47px;
-    margin-bottom: 55px ;
+    margin-top: px;
+    margin-bottom: 18px ;
    
     
     }
